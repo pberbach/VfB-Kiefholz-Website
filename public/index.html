@@ -23,26 +23,20 @@
         h3 { font-size: 1.25rem; }
         p { margin-bottom: 1em; }
         .meta { color: var(--muted-foreground); font-size: 0.875rem; margin-bottom: 20px; }
-        .main-nav { background: var(--card); padding: 10px 20px; margin-bottom: 20px; border-bottom: 1px solid var(--border); }
-        .main-nav a { margin-right: 15px; color: var(--foreground); }
-        .main-nav a.current { color: var(--accent); font-weight: bold; }
-        .lang-switch { margin-top: 20px; padding-top: 20px; border-top: 1px solid var(--border); display: flex; gap: 10px; }
+        .lang-switch { margin-top: 20px; padding-top: 20px; border-top: 1px solid var(--border); }
         .content p code { background: #e2e8f0; padding: 0.2em 0.4em; border-radius: 3px; }
         .section { margin-bottom: 40px; padding-bottom: 20px; border-bottom: 1px solid var(--border); }
         @media (max-width: 600px) { .container { padding: 10px; } }
     </style>
 </head>
 <body>
-    <div class="main-nav">
-        <a href="index.html" class="current">Deutsch</a>
-        <a href="en/index.html">English</a>
-        <a href="about.html">Über uns</a>
-        <a href="legal.html">Rechtliches</a>
-        <a href="membership.html">Mitgliedschaft</a>
-        <a href="schedule.html">Trainingsplan</a>
-    </div>
     <div class="container">
         {{ block "main" . }}{{ end }}
+        {{ if .IsPage }}<div class="meta">{{ .Date.Format "2006-01-02" }} — {{ .File.Path }}</div>{{ end }}
+        <div class="lang-switch">
+            <a href="/" style="margin-right: 10px; color: var(--muted-foreground);">Deutsch</a>
+            <a href="/en/" style="margin-right: 10px; color: var(--muted-foreground);">English</a>
+        </div>
     </div>
 </body>
 </html>
