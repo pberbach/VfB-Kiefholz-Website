@@ -5,38 +5,45 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>VfB Kiefholz - Badminton Berlin</title>
     <style>
-        :root {
-            --foreground: #2d3748;
-            --muted-foreground: #4a5568;
-            --accent: #FF6B35;
-            --border: #e2e8f0;
-            --card: #ffffff;
-        }
-        * { box-sizing: border-box; }
-        body { font-family: system-ui, -apple-system, sans-serif; margin: 0; padding: 0; color: var(--foreground); background: var(--card); line-height: 1.6; }
-        a { color: var(--accent); text-decoration: none; }
-        a:hover { text-decoration: underline; }
-        .container { max-width: 800px; margin: 0 auto; padding: 20px; }
-        h1, h2, h3 { color: var(--accent); margin-top: 1.5em; margin-bottom: 0.5em; }
-        h1 { font-size: 2rem; }
-        h2 { font-size: 1.5rem; }
-        h3 { font-size: 1.25rem; }
-        p { margin-bottom: 1em; }
-        .meta { color: var(--muted-foreground); font-size: 0.875rem; margin-bottom: 20px; }
-        .lang-switch { margin-top: 20px; padding-top: 20px; border-top: 1px solid var(--border); }
-        .content p code { background: #e2e8f0; padding: 0.2em 0.4em; border-radius: 3px; }
-        .section { margin-bottom: 40px; padding-bottom: 20px; border-bottom: 1px solid var(--border); }
-        @media (max-width: 600px) { .container { padding: 10px; } }
+        :root { --foreground: #2d3748; --muted-foreground: #4a5568; --accent: #FF6B35; --border: #e2e8f0; --card: #ffffff; }
+        * { box-sizing: border-box; } body { font-family: system-ui, -apple-system, sans-serif; margin: 0; padding: 0; color: var(--foreground); background: var(--card); line-height: 1.6; } a { color: var(--accent); text-decoration: none; } a:hover { text-decoration: underline; } .container { max-width: 800px; margin: 0 auto; padding: 20px; } h1, h2, h3 { color: var(--accent); margin-top: 1.5em; margin-bottom: 0.5em; } h1 { font-size: 2rem; } h2 { font-size: 1.5rem; } h3 { font-size: 1.25rem; } p { margin-bottom: 1em; } .meta { color: var(--muted-foreground); font-size: 0.875rem; margin-bottom: 20px; } .main-nav { background: var(--card); padding: 10px 20px; margin-bottom: 20px; border-bottom: 1px solid var(--border); display: flex; gap: 15px; } .main-nav a { color: var(--foreground); } .main-nav a.current { color: var(--accent); font-weight: bold; } .lang-switch { margin-top: 20px; padding-top: 20px; border-top: 1px solid var(--border); display: flex; gap: 10px; } .content p code { background: #e2e8f0; padding: 0.2em 0.4em; border-radius: 3px; } .section { margin-bottom: 40px; padding-bottom: 20px; border-bottom: 1px solid var(--border); } @media (max-width: 600px) { .container { padding: 10px; } }
     </style>
 </head>
 <body>
+    <div class="main-nav">
+        <a href="index.html" class="current">Deutsch</a>
+        <a href="en/index.html">English</a>
+        <a href="about.html">About</a>
+        <a href="legal.html">Legal</a>
+        <a href="membership.html">Membership</a>
+        <a href="schedule.html">Schedule</a>
+    </div>
     <div class="container">
-        {{ block "main" . }}{{ end }}
-        {{ if .IsPage }}<div class="meta">{{ .Date.Format "2006-01-02" }} — {{ .File.Path }}</div>{{ end }}
-        <div class="lang-switch">
-            <a href="/" style="margin-right: 10px; color: var(--muted-foreground);">Deutsch</a>
-            <a href="/en/" style="margin-right: 10px; color: var(--muted-foreground);">English</a>
-        </div>
+        <article>
+            <h1>Welcome to VfB Kiefholz e.V.</h1>
+            <p><strong>One club for all nations:</strong> Badminton in Berlin like nowhere else.</p>
+            <p>We are an internationally-oriented club. Over 55 nations meet here to play badminton, form friendships, and live intercultural understanding. English is our second language - but everyone is welcome, regardless of origin, age, or skill level.</p>
+            <h2>What we offer</h2>
+            <ul>
+                <li><strong>Recreational sport & league:</strong> From recreational play to 5 league teams representing Berlin-Brandenburg</li>
+                <li><strong>Youth department:</strong> Training for children and youth on Monday and Wednesday at Hänselstraße 14</li>
+                <li><strong>Coached sessions:</strong> Coaching for various skill levels</li>
+                <li><strong>Internal tournaments:</strong> Regular friendly matches and tournaments against other clubs</li>
+            </ul>
+            <h2>Current training times</h2>
+            <ul>
+                <li><strong>Hänselstraße 14:</strong> Monday 16:00-17:30, Wednesday 16:00-17:30, Saturday 10:30-12:00</li>
+                <li><strong>Engelhardstraße 18:</strong> Wednesday 20:00-22:00</li>
+            </ul>
+            <h2>Membership</h2>
+            <p>We offer flexible payment options: monthly, quarterly, or yearly. All prices are under "Membership".</p>
+            <h2>Contact</h2>
+            <p><strong>E-Mail:</strong> info@badminton-treptow.de</p>
+            <p><strong>Secretariat:</strong> ℅ Henrik Turzer, Kiefholzstraße 402, 12435 Berlin</p>
+            <hr>
+            <p>*VfB Kiefholz e.V. was founded in 2004. We understand ourselves as a club for all - regardless of nation, origin, or sporting background. All nations and age groups are welcome, as long as they are open, friendly, and polite to each other.</p>
+            <p><strong>Important:</strong> The halls are used free of charge per Berlin law. Membership fees cover only organizational costs and wear and tear.</p>
+        </article>
     </div>
 </body>
 </html>
