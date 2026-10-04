@@ -20,14 +20,14 @@ Wir bieten flexible Zahlungsoptionen an:
 | Zahlungsart | Erwachsene (monatlich) | Erwachsene (vierteljährlich) | Erwachsene (jährlich) |
 |-------------|----------------------|------------------------------|----------------------|
 | **Regulär** | 22,50 € | 60 € | 220 € |
-| **Ermäßigt** (Schüler, Studenten bis 30, Rentner ab 66) | 17,00 € | 45 € | 162 € |
+| **Ermäßigt** (Schüler ≤ 30, Joblose, Rentner > 66) | 17,00 € | 45 € | 162 € |
 | **Mitglied in anderen Badminton-Clubs** | 17,00 € | 45 € | 162 € |
 
 ### Wichtige Hinweise:
 
 - **Monatliche Zahlung**: Flexibel, monatlich kündbar (etwa +10% Aufschlag)
-- **Vierteljährliche Zahlung**: Bestehende Mitglieder bleiben vierteljährlich abgerechnet
-- **Jahreszahlung**: Günstigste Option (- etwa 10% Rabatt), Kündigung einmal jährlich möglich
+- **Viertelzahlung**: Bestehende Mitglieder bleiben vierteljährlich abgerechnet
+- **Jahresbeitrag**: Günstigste Option (- etwa 10% Rabatt), Kündigung einmal jährlich möglich
 
 ## Verletzungspause
 
@@ -36,7 +36,7 @@ Bei schwerer Krankheit oder Verletzung (mehr als einen Monat) kann mit ärztlich
 ## Kündigungsfristen
 
 - **Monatliche Zahlung**: Jeden Monat zum Quartalsende kündbar
-- **Vierteljährliche Zahlung**: Zum Ende des Quartals kündbar
+- **Viertelzahlung**: Zum Ende des Quartals kündbar
 - **Jahresbeitrag**: Einmal jährlich zum Jahresende kündbar
 
 ## Aufnahmeantrag

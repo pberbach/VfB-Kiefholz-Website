@@ -12,7 +12,7 @@ description: "Verweis auf VfB Kiefholz Volleyball-Site und kurze Einführung"
 
 ## VfB Kiefholz Volleyball
 
-Der Volleyball-Bereich von VfB Kiefholz ist eigenständig organisiert und wird auf der eigenen Website [kiefholz.net](https://kiefholz.net) umfassend dargestellt.
+Der Volleyball-Bereich von VfB Kiefholz ist eigenständig organisiert und wird auf der eigenen Website dargestellt.
 
 ### Was auf der Volleyball-Website zu finden ist:
 
@@ -28,9 +28,9 @@ Der Volleyball-Bereich von VfB Kiefholz ist eigenständig organisiert und wird a
 - **Instagram**: [@vfb.kiefholz.volleyball](https://www.instagram.com/vfb.kiefholz.volleyball/)
 - **Trainingsort**: Verschiedene Hallen in Berlin (auf kiefholz.net detailliert)
 
-## Badminton-Spielerinnen und -Spieler
+### Badminton-Spielerinnen und -Spieler
 
-VfB Kiefholzmitglieder, die auch Volleyball spielen, finden sich oft in den Freizeitvolleyball-Teams ("Himalayan Spikers", "Anime Spikers", "Kiefholz II Mixed") wieder. Fragen zu Volleyball-Mitgliedschaft richten Sie bitte direkt an den Volleyball-Vorstand über die Hauptwebsite.
+VfB Kiefholz-Mitglieder, die auch Volleyball spielen, finden sich oft in den Freizeitvolleyball-Teams ("Himalayan Spikers", "Anime Spikers", "Kiefholz II Mixed") wieder. Fragen zu Volleyball-Mitgliedschaft richten Sie bitte direkt an den Volleyball-Vorstand über die Hauptwebsite.
 
 ---
 

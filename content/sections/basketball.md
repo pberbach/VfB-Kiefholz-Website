@@ -23,12 +23,12 @@ Der Basketball-Bereich von VfB Kiefholz befindet sich im Aufbau. Der Verein biet
 - **Jugendförderung**: Geplante Angebote für junge Spieler
 - **Vereinsgedanke**: Teil der "one club for all nations"-Philosophie
 
-## Preisinformationen (analog zu Badminton)
+## Platzierungsinformationen (analog zu Badminton)
 
 Sobald BasketballRegularität im Verein etabliert ist, würden die Beiträge voraussichtlich in ähnlicher Struktur wie Badminton erfolgen:
 
 - Monatl. Erwachsene: ca. 22,50 €
-- Ermäßigt (Schüler/Studenten/Rentner): ca. 17,00 €
+- Ermäßigt (Schüler, Studenten bis 30, Rentner ab 66): ca. 17,00 €
 - Jahresoption: ca. 220 € (mit ca. 10% Rabatt)
 
 *Diese Preise sind Placeholder und werden bei Einführung des Sports aktualisiert.*
@@ -36,7 +36,7 @@ Sobald BasketballRegularität im Verein etabliert ist, würden die Beiträge vor
 ## Wie es weitergeht
 
 1. **Interesse bekunden**: E-Mail an info@badminton-treptow.de mit Betreff "Basketball-Interesse"
-2. **Mitbestimmung**: Mitgliedsentscheidungen bei der nächsten Jahreshauptversammlung
+2. **Mitbestimmung**: Mitgliedsentscheidung bei der nächsten Jahreshauptversammlung
 3. **Aufbauphase**: Gemeinsam mit Interessierten Trainingsstruktur und -zeiten entwickeln
 
 ---

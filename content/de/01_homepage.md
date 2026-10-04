@@ -2,7 +2,7 @@
 title: "Homepage"
 date: 2024-01-01
 lang: de
-description: "VfB Kiefholz e.V. - Badminton Berlin, einer der internationalsten Badminton-Clubs in Berlin mit über 425 Mitgliedern aus 55 Ländern."
+description: "VfB Kiefholz e.V. - Badminton Berlin, einer der internationalensten Badminton-Clubs in Berlin mit über 425 Mitgliedern aus 55 Ländern."
 ---
 # Willkommen bei VfB Kiefholz e.V.
 

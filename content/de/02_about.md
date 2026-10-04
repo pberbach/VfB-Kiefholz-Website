@@ -15,14 +15,14 @@ Wir verstehen uns als Treffpunkt für Menschen aus aller Welt. Badminton bei uns
 ## unsere Geschichte
 
 - **2004**: VfB Kiefholz e.V. wird gegründet
-- Schwerpunkt: Badminton als Breitensport und Ligabetrieb
+- **Fokus**: Badminton als Breitensport und Ligabetrieb
 - Im Laufe der Jahre kamen Jugendabteilung und weitere Sportarten hinzu
 
 ## Mitgliederzahlen
 
 - **Über 425 Mitglieder**
 - **Aus mehr als 55 Nationen**
-- Eine der internationalsten Badminton-Gemeinschaften Berlins
+- Eine der internationalsten Badminton-Gemeinschaften Berlins.
 
 ## unsere Angebote
 

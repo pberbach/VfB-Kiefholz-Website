@@ -8,7 +8,7 @@ description: "Leichte Einführung in Cricket beim VfB Kiefholz mit Verweis auf w
 
 ## Einführung
 
-Der Cricket-Bereich von VfB Kiefholz befindet sich im sehr frühen Planungsstadium. Der Verein hat Cricket als weitere Sportart im Angebot, aber es sind noch keine regelmäßigen Trainings oder Ligaspielbetriebe etabliert.
+Der Cricket-Bereich von VfB Kiefholz befindet sich in sehr frühen Planungsstadien. Der Verein hat Cricket als weitere Sportart im Angebot, aber regelmäßiges Training oder Ligabetrieb sind noch nicht etabliert.
 
 ## Aktueller Stand
 
@@ -23,12 +23,12 @@ Der Cricket-Bereich von VfB Kiefholz befindet sich im sehr frühen Planungsstadi
 - **Kultureller Austausch**: Geplante Möglichkeit für interkulturellen Sportaustausch
 - **Vereinsgedanke**: Teil der "one club for all nations"-Philosophie
 
-## Preisinformationen (analog zu Badminton)
+## Platzierungsinformationen (analog zu Badminton)
 
 Sobald CricketRegularität im Verein etabliert ist, würden die Beiträge voraussichtlich in ähnlicher Struktur wie Badminton erfolgen:
 
 - Monatl. Erwachsene: ca. 22,50 €
-- Ermäßigt (Schüler/Studenten/Rentner): ca. 17,00 €
+- Ermäßigt (Schüler, Studenten bis 30, Rentner ab 66): ca. 17,00 €
 - Jahresoption: ca. 220 € (mit ca. 10% Rabatt)
 
 *Diese Preise sind Placeholder und werden bei Einführung des Sports aktualisiert.*

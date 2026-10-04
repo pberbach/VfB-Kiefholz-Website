@@ -16,8 +16,8 @@ Kiefholzstraße 402
 
 E-Mail: info@badminton-treptow.de  
 
-**Registergericht:** Charlottenburg (Berlin)  
-**Register-Nr.:** VR 12345 B  
+**Registergericht**: Charlottenburg (Berlin)  
+**Register-Nr.**: VR 12345 B  
 
 Vorsitzender: Henrik Turzer  
 Steuer-ID: DE123456789  
@@ -26,7 +26,7 @@ Steuer-ID: DE123456789
 
 ## Datenschutz (DSGVO)
 
-Diese Website erhebt und nutzt nur diejenigen personenbezogenen Daten, die technisch erforderlich sind. Es werden keine Daten an Dritte weitergegeben, es sei denn, dies ist für die Vereinsführung notwendig.
+Diese Website erhebt und nutzt nur diejenigen personenbezogenen Daten, die technisch notwendig sind. Es werden keine Daten an Dritte weitergegeben, es sei denn, dies ist für die Vereinsführung notwendig.
 
 ### Erfasste Daten:
 
@@ -44,7 +44,7 @@ Diese Website erhebt und nutzt nur diejenigen personenbezogenen Daten, die techn
 
 ### Verantwortlich für die Datenverarbeitung:
 
-VfB Kiefholz e.V., info@badminton-treptow.de
+VfB Kiefholz e.V., info@badminton-treptow.de  
 
 ---
 
@@ -66,4 +66,4 @@ Der Verein haftet nicht für direkte oder indirekte Schäden, die aus der Nutzun
 - [Satzung (PDF)](pdf/satzung.pdf)
 - [Beitragsordnung (PDF)](pdf/beitragsordnung.pdf)
 
-*PDF-Dokumente stehen im Download-Bereich bereit. Bei Problemen mit dem Download kontaktieren Sie bitte info@badminton-treptow.de.*
+*PDF-Dokumente stehen im Download-Bereich bereit. Für Download-Probleme kontaktieren Sie bitte info@badminton-treptow.de.*
