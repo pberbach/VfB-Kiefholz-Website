@@ -1,48 +1,80 @@
----
-title: "About"
----
-# About Us - VfB Kiefholz e.V.
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Über uns - VfB Kiefholz e.V.</title>
+    <style>
+        :root {
+            --foreground: #2d3748;
+            --muted-foreground: #4a5568;
+            --accent: #FF6B35;
+            --border: #e2e8f0;
+            --card: #ffffff;
+        }
+        * { box-sizing: border-box; }
+        body { font-family: system-ui, -apple-system, sans-serif; margin: 0; padding: 0; color: var(--foreground); background: var(--card); line-height: 1.6; }
+        a { color: var(--accent); text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        .container { max-width: 800px; margin: 0 auto; padding: 20px; }
+        h1, h2, h3 { color: var(--accent); margin-top: 1.5em; margin-bottom: 0.5em; }
+        h1 { font-size: 2rem; }
+        h2 { font-size: 1.5rem; }
+        h3 { font-size: 1.25rem; }
+        p { margin-bottom: 1em; }
+        .meta { color: var(--muted-foreground); font-size: 0.875rem; margin-bottom: 20px; }
+        .lang-switch { margin-top: 20px; padding-top: 20px; border-top: 1px solid var(--border); }
+        .content p code { background: #e2e8f0; padding: 0.2em 0.4em; border-radius: 3px; }
+        .section { margin-bottom: 40px; padding-bottom: 20px; border-bottom: 1px solid var(--border); }
+        @media (max-width: 600px) { .container { padding: 10px; } }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <article>
+            <h1>Über uns - VfB Kiefholz e.V.</h1>
 
-## Our Philosophy
+            <p><strong>"One club for all nations":</strong> Wir verstehen uns als Treffpunkt für Menschen aus aller Welt. Badminton bei uns bedeutet nicht nur Sport, sondern auch interkulturelle Begegnung. Es gibt bei uns keine dominante Gruppe - jeder ist willkommen, unabhängig von Herkunft, Alter oder sportlichem Hintergrund.</p>
 
-> **"One club for all nations"**
+            <h2>unsere Geschichte</h2>
+            <ul>
+                <li><strong>2004:</strong> VfB Kiefholz e.V. wird gegründet</li>
+                <li><strong>Fokus:</strong> Badminton als Breitensport und Ligabetrieb</li>
+                <li><strong>Im Laufe der Jahre:</strong> Jugendabteilung und weitere Sportarten kamen hinzu</li>
+            </ul>
 
-We understand ourselves as a meeting point for people from all over the world. Badminton with us means not just sport, but also intercultural exchange. There is no dominant group at our place - everyone is welcome, regardless of origin, age, or skill level.
+            <h2>Mitgliederzahlen</h2>
+            <p><strong>Über 425 Mitglieder</strong> aus mehr als 55 Nationen - eine der internationalsten Badminton-Gemeinschaften Berlins.</p>
 
-## Our History
+            <h2>unsere Angebote</h2>
+            <ul>
+                <li><strong>Breitensport für alle Altersgruppen</strong></li>
+                <li><strong>5 Liga-Teams</strong> im Berlin-Brandenburg-Verbund</li>
+                <li><strong>Jugendtraining</strong> (Montag/Mittwoch in Hänselstraße 14)</li>
+                <li><strong>Coached Units</strong> für verschiedene Leistungsniveaus</li>
+                <li><strong>Interne Turniere</strong> und Freundschaftsspiele</li>
+            </ul>
 
-- **2004**: VfB Kiefholz e.V. is founded
-- **Focus**: Badminton as recreational sport and league operations
-- Over the years, youth department and other sports were added
+            <h2>Hallen und Zeiten</h2>
+            <table>
+                <tr><td><strong>Hänselstraße 14</strong></td><td>Montag</td><td>16:00 - 17:30</td></tr>
+                <tr><td></td><td>Mittwoch</td><td>16:00 - 17:30</td></tr>
+                <tr><td></td><td>Samstag</td><td>10:30 - 12:00</td></tr>
+                <tr><td><strong>Engelhardstraße 18</strong></td><td>Mittwoch</td><td>20:00 - 22:00</td></tr>
+            </table>
+            <p><em>Hallen werden gemäß Berliner Gesetz kostenfrei genutzt.</em></p>
 
-## Membership Numbers
+            <h2>Kontakt</h2>
+            <p><strong>info@badminton-treptow.de</strong><br>
+            ℅ Henrik Turzer<br>
+            Kiefholzstraße 402<br>
+            12435 Berlin</p>
+        </article>
 
-- **Over 425 members**
-- **From more than 55 nations**
-- One of Berlin's most international badminton communities
-
-## What We Offer
-
-- Recreational sport for all age groups
-- 5 League teams in the Berlin-Brandenburg association
-- Youth training (Monday/Wednesday at Hänselstraße 14)
-- Coached sessions for various skill levels
-- Internal tournaments and friendly matches
-
-## Hall Times and Locations
-
-| Location | Day | Time | Notes |
-|----------|-----|------|-------|
-| Hänselstraße 14 | Monday | 16:00 - 17:30 | Open training for all members |
-| Hänselstraße 14 | Wednesday | 16:00 - 17:30 | Open training for all members |
-| Hänselstraße 14 | Saturday | 10:30 - 12:00 | Open training (often supervised) |
-| Engelhardstraße 18 | Wednesday | 20:00 - 22:00 | Open training for all members |
-
-*Hall are used free of charge per Berlin law.*
-
-## Contact
-
-- info@badminton-treptow.de
-- ℅ Henrik Turzer
-- Kiefholzstraße 402
-- 12435 Berlin
+        <div class="lang-switch">
+            <a href="/" style="margin-right: 10px; color: var(--muted-foreground);">Deutsch</a>
+            <a href="/en/" style="margin-right: 10px; color: var(--muted-foreground);">English</a>
+        </div>
+    </div>
+</body>
+</html>
