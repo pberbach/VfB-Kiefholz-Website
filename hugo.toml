@@ -1,0 +1,38 @@
+baseURL = 'https://pberbach.github.io/VfB-Kiefholz-Website/'
+languageCode = 'de-de'
+title = 'VfB Kiefholz - Badminton Berlin'
+
+# Theme configuration
+theme = 'minimal'
+
+# Multi-language support
+DefaultContentLanguage = 'de'
+
+[languages]
+  [languages.de]
+    languageName = 'Deutsch'
+    languageDirection = 'ltr'
+    weight = 1
+    hasManyLanguages = true
+
+  [languages.en]
+    languageName = 'English'
+    languageDirection = 'ltr'
+    weight = 2
+    hasManyLanguages = true
+
+[params]
+  orange = '#FF6B35'
+  dark_blue = '#0033A0'
+  white = '#FFFFFF'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardBreak = true
+      xhtml = false
+
+[outputs]
+  home = ['HTML', 'RSS']
+  page = ['HTML']
+  section = ['HTML']

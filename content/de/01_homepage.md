@@ -1,0 +1,38 @@
+---
+title: "Homepage"
+date: 2024-01-01
+lang: de
+description: "VfB Kiefholz e.V. - Badminton Berlin, einer der internationalsten Badminton-Clubs in Berlin mit über 425 Mitgliedern aus 55 Ländern."
+---
+# Willkommen bei VfB Kiefholz e.V.
+
+**One club for all nations**: Badminton in Berlin wie nirgendwo anders.
+
+Wir sind ein Club mit internationaler Ausrichtung. Bei uns treffen sich Menschen aus über 55 Nationen, um Badminton zu spielen, Freundschaften zu schließen und Völkerverständigung zu leben. Englisch ist unsere Zweitsprache - aber jeder ist willkommen, unabhängig von Herkunft, Alter oder Können.
+
+## Was wir bieten
+
+- **Breitensport & Liga**: Von Freizeitspielen bis hin zu 5 Liga-Teams, die Berlin-Brandenburg vertreten
+- **Jugendabteilung**: Training für Kinder und Jugendliche am Montag und Mittwoch in der Hänselstraße 14
+- **Trainierte Einheiten**: Coaching für verschiedene Leistungsniveaus
+- **Interne Turniere**: Regelmäßige Freundschaftsspiele und Turniere gegen andere Clubs
+
+## Aktuelle Trainingszeiten
+
+- **Hänselstraße 14**: Montag 16:00-17:30, Mittwoch 16:00-17:30, Samstag 10:30-12:00
+- **Engelhardstraße 18**: Mittwoch 20:00-22:00
+
+## Mitgliedschaft
+
+Wir bieten flexible Zahlungsoptionen: monatlich, vierteljährlich oder jährlich. Alle Preise finden Sie unter "Mitgliedschaft".
+
+## Kontakt
+
+- **E-Mail**: info@badminton-treptow.de
+- **Geschäftsstelle**: ℅ Henrik Turzer, Kiefholzstraße 402, 12435 Berlin
+
+---
+
+*VfB Kiefholz e.V. wurde 2004 gegründet. Wir verstehen uns als Club für alle - unabhängig von Nation, Herkunft oder sportlichem Hintergrund. Alle Nationen und Altersgruppen sind willkommen, solange sie offen, freundlich und respektvoll miteinander umgehen.*
+
+> **Wichtig**: Die Hallen werden gemäß Berliner Gesetz kostenfrei genutzt. Die Mitgliedsbeiträge decken nur die organisatorischen Kosten und den Schrottverschleiß.

@@ -1,0 +1,51 @@
+---
+title: "Über uns"
+date: 2024-01-01
+lang: de
+description: "Philosophie, Geschichte und Mitgliederzahlen des VfB Kiefholz e.V."
+---
+# Über uns - VfB Kiefholz e.V.
+
+## unsere Philosophie
+
+> **"One club for all nations"**
+
+Wir verstehen uns als Treffpunkt für Menschen aus aller Welt. Badminton bei uns bedeutet nicht nur Sport, sondern auch interkulturelle Begegnung. Es gibt bei uns keine dominante Gruppe - jeder ist willkommen, unabhängig von Herkunft, Alter oder sportlichem Hintergrund.
+
+## unsere Geschichte
+
+- **2004**: VfB Kiefholz e.V. wird gegründet
+- Schwerpunkt: Badminton als Breitensport und Ligabetrieb
+- Im Laufe der Jahre kamen Jugendabteilung und weitere Sportarten hinzu
+
+## Mitgliederzahlen
+
+- **Über 425 Mitglieder**
+- **Aus mehr als 55 Nationen**
+- Eine der internationalsten Badminton-Gemeinschaften Berlins
+
+## unsere Angebote
+
+- Breitensport für alle Altersgruppen
+- 5 Liga-Teams im Berlin-Brandenburg-Verbund
+- Jugendtraining (Montag/Mittwoch in Hänselstraße 14)
+- Coached Units für verschiedene Leistungsniveaus
+- Interne Turniere und Freundschaftsspiele
+
+## Hallen und Zeiten
+
+| Ort | Tag | Uhrzeit |
+|-----|-----|---------|
+| Hänselstraße 14 | Montag | 16:00 - 17:30 |
+| Hänselstraße 14 | Mittwoch | 16:00 - 17:30 |
+| Hänselstraße 14 | Samstag | 10:30 - 12:00 |
+| Engelhardstraße 18 | Mittwoch | 20:00 - 22:00 |
+
+*Hallen werden gemäß Berliner Gesetz kostenfrei genutzt.*
+
+## Kontakt
+
+- info@badminton-treptow.de
+- ℅ Henrik Turzer
+- Kiefholzstraße 402
+- 12435 Berlin

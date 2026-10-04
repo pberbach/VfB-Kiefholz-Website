@@ -1,0 +1,51 @@
+---
+title: "About Us"
+date: 2024-01-01
+lang: en
+description: "Philosophy, history, and membership numbers of VfB Kiefholz e.V."
+---
+# About Us - VfB Kiefholz e.V.
+
+## Our Philosophy
+
+> **"One club for all nations"**
+
+We understand ourselves as a meeting point for people from all over the world. Badminton with us means not just sport, but also intercultural exchange. There is no dominant group at our place - everyone is welcome, regardless of origin, age, or skill level.
+
+## Our History
+
+- **2004**: VfB Kiefholz e.V. is founded
+- **Focus**: Badminton as recreational sport and league operations
+- Over the years, youth department and other sports were added
+
+## Membership Numbers
+
+- **Over 425 members**
+- **From more than 55 nations**
+- One of Berlin's most international badminton communities
+
+## What We Offer
+
+- Recreational sport for all age groups
+- 5 League teams in the Berlin-Brandenburg association
+- Youth training (Monday/Wednesday at Hänselstraße 14)
+- Coached sessions for various skill levels
+- Internal tournaments and friendly matches
+
+## Hall Times and Locations
+
+| Location | Day | Time | Notes |
+|----------|-----|------|-------|
+| Hänselstraße 14 | Monday | 16:00 - 17:30 | Open training for all members |
+| Hänselstraße 14 | Wednesday | 16:00 - 17:30 | Open training for all members |
+| Hänselstraße 14 | Saturday | 10:30 - 12:00 | Open training (often supervised) |
+| Engelhardstraße 18 | Wednesday | 20:00 - 22:00 | Open training for all members |
+
+*Hall are used free of charge per Berlin law.*
+
+## Contact
+
+- info@badminton-treptow.de
+- ℅ Henrik Turzer
+- Kiefholzstraße 402
+- 12435 Berlin
